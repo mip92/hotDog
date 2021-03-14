@@ -1,6 +1,5 @@
 {
   "serverPort": 5000,
-  "dbUrl": "mongodb+srv://mip:11235813@cluster0.vcivq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "secreteKey": "sekret-key",
-  "filePath":"D:\\project\\MERN2\\server\\files"
+  "dbUrl": "mongodb+srv://mip:11235813@hotdogs.1egsu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "secreteKey": "secret-key"
 }
